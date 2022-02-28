@@ -40,7 +40,6 @@
 
                         <a class="nav-item nav-link" href="<?= base_url('member/myprofil'); ?>">
                             <i class="fas fa-fw fa-user"></i>Profile Saya
-
                         </a>
 
                         <a class="nav-item nav-link" href="<?= base_url('member/logout'); ?>">
